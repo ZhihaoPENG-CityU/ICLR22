@@ -2,7 +2,9 @@
 * [<a href="https://openreview.net/forum?id=uxgg9o7bI_3">openreview</a>]
 * [<a href="https://openreview.net/pdf?id=uxgg9o7bI_3">paper</a>]
 <!-- * [<a href="">code</a>] -->
-* [Keyword: Graph Neural Networks, Graph Isomorphism, Weisfeiler Lehman]
+* [Keyword: Graph Neural Networks, Local Isomorphism, Weisfeiler Lehman, Generalised Message-passing Framework, Properties of Structural Interactions]
+* [Experiments: Node Classification, Graph Classification]
+* [Focusion: Oversmoothing Issue, Expressive]
 
 ### ICLR22(7)---END-TO-END LEARNING OF PROBABILISTIC HIERARCHIES ON GRAPHS
 * [<a href="">openreview</a>]
